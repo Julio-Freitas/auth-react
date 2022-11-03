@@ -14,4 +14,4 @@
   - lib Antd
  - Typescript
 
- 🌐 [DEMO](https://auth-react-uxrn.vercel.app/login)
+ 🌐 [DEMO](https://auth-react-uxrn.vercel.app)
